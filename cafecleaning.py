@@ -11,3 +11,9 @@ print(df.head())
 
 # Replace 'ERROR' and 'UNKNOWN' with NaN for easier handling
 df.replace(['ERROR', 'UNKNOWN'], pd.NA, inplace=True)
+
+# Convert columns to appropriate data types
+df['Quantity'] = pd.to_numeric(df['Quantity'], errors='coerce')
+df['Price Per Unit'] = pd.to_numeric(df['Price Per Unit'], errors='coerce')
+df['Total Spent'] = pd.to_numeric(df['Total Spent'], errors='coerce')
+df['Transaction Date'] = pd.to_datetime(df['Transaction Date'], errors='coerce')
