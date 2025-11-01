@@ -45,5 +45,6 @@ print(df.head())
 print(f"\nTotal Rows After Cleaning: {len(df)}")
 print(f"Total Sales: ${df['Total Spent'].sum():.2f}")
 
+
 df.to_csv('cleaned_cafe_sales_drop_rows.csv', index=False)
 
