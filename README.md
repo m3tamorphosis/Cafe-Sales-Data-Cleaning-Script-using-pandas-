@@ -26,8 +26,8 @@ Dine-in vs Takeaway Pie	Customer order preference
 Daily Revenue Table	Daily sales summary
 
 📸 Dashboard Preview
-![image alt](<img width="708" height="768" alt="image" src="https://github.com/user-attachments/assets/5aef16a8-b0d9-4725-990b-f3b85d7a219f" />
-)
+![Dashboard Preview](power bi/image_2025-11-02_215006885.png)
+
 
 🛠️ Tech Stack
 Tool	Use
