@@ -25,6 +25,9 @@ Donut Chart	Payment method breakdown
 Dine-in vs Takeaway Pie	Customer order preference
 Daily Revenue Table	Daily sales summary
 
+📸 Dashboard Preview
+![image alt]([images/dashboard-preview.png](https://github.com/m3tamorphosis/Cafe-Sales-Data-Cleaning-Script-using-pandas-/blob/6814ee3a075d91f0b6a2d7f336152b7cc4594aaf/power%20bi/image_2025-11-02_215006885.png))
+
 🛠️ Tech Stack
 Tool	Use
 Power BI	Dashboard & data modeling
